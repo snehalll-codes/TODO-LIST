@@ -23,10 +23,13 @@ Displays total tasks
 Shows completed and remaining tasks
 Automatically updates when task status changes
 
-# 📌 Use Case
+#  Use Case
 
 Daily task management
 Productivity tracking
 Beginner-friendly project for learning frontend development
+
+#  Author
+Snehal Narwade
 
 
