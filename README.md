@@ -4,18 +4,18 @@ A simple and interactive To-Do List web application that helps users manage dail
 
 # Features
 
-➕ Add new tasks easily
-✅ Mark tasks as completed
-🗑️ Delete tasks
-📊 Progress Bar Graph showing completed vs pending tasks
-📈 Real-time task completion updates
-💾 Data persists during the session (or local storage, if implemented)
+➕ Add new tasks easily,
+✅ Mark tasks as completed,
+🗑️ Delete tasks,
+📊 Progress Bar Graph showing completed vs pending tasks,
+📈 Real-time task completion updates,
+💾 Data persists during the session,
 🎨 Clean and user-friendly UI
 
 # Tech Stack
 
-HTML
-CSS
+HTML,
+CSS,
 JavaScript
 # Bar Graph Functionality
 
